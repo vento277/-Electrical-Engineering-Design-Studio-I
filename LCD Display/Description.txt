@@ -15,19 +15,3 @@ Display script
    ERROR...
    Bullet breaks the wall (Crunch!) 	-> Special character 
    Hacked message			-> scroll
-
-
-
-
-
-   
-    
-   
-   
-
-
-
-
-
-
-	
