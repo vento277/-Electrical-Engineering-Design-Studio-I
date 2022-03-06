@@ -1,8 +1,0 @@
-Timer Code:
-https://github.com/FSXAC/ELEC291/blob/master/Lab%202/alarm2.asm
-
-The code above consists of the basic timer function including the sound. 
-
-Below are extra functionalities that I added to the code above:
-- Date Changes
-- Stopwatch
