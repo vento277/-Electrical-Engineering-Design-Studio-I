@@ -1,17 +1,14 @@
-Functions:
+Basic:
+Display name and student number on LCD display
+
+Additonal:
 Cursor Display
-
 Incremental Display
-
 Special Character
+Scroll
 
-Scroll (starting from middle and becoming regular scroll *continues infinitely)
-	It consists of two functions:
-	One, for scroll from the middle.
-	Two, for overall scroll in the first line. 
-
-Display Description
-1. Required name & id
+Display script
+1. Name & Id
 2. The display will show the process of a timer being hacked. 
    Name & ID				-> Cursor
    Timer 5 4 3 				-> incremental display & cursor
