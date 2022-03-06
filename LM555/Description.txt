@@ -4,6 +4,3 @@ Measure capacitance using period/frequency.
 Additional:
 Measure impedance
 Measure resistance
-
-
-
