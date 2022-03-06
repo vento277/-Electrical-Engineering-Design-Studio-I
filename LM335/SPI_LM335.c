@@ -109,7 +109,7 @@ unsigned int volatile GetADC(unsigned char channel)
 #define VREF 4.096
 
 
-int abc(void) {
+int readd(void) {
 	float y;
 	float y1;
 
@@ -123,7 +123,7 @@ int abc(void) {
 void main(void)
 {
 	while(1) {
-		abc();
+		readd();
 		waitms(250);
 	}
 }
