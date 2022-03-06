@@ -1,8 +1,0 @@
-Features:
--Animated intro
--Normal game mode + Piano mode 
--Piano mode has two sets of tones and 5 keys 
--5 555 timers for the keys/capacitors
--Key will emit sound while being pressed and stop when key is released 
-
-
