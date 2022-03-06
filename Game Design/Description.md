@@ -1,6 +1,6 @@
 2 imbedded games, **"React!"** and **"Launch Pad"**.
 
-Read the **report** for more information! 
+Read the **report** for more information. 
 
 ![Elec291_Project1_BreadboardPic](https://user-images.githubusercontent.com/63937643/156922149-a7669ab9-f8a8-4efe-b766-c7c0fde9c6f3.jpeg)
 
