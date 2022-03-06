@@ -1,0 +1,11 @@
+ELEC 291 Project 1 by:
+Peter Kim     18693002
+Jon Li	      97939987
+Manjot Mangat 55747315
+
+Bonus features:
+-Animated intro
+-Normal game mode + Piano mode 
+-Piano mode has two sets of tones and 5 keys 
+-5 555 timers for the keys/capacitors
+-Key will emit sound while being pressed and stop when key is released 
