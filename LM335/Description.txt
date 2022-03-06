@@ -1,12 +1,5 @@
-All the codes are written by the author. 
-[Peter Kim | 18693002]
-
-Presentation
-"lab 4" 	shows the basic strip chart function for 75%
 Basic:
 Measure the temperature from LM335 and display a live stripchart on python.
-*Strip chart in the demo is enlarged to make the functionality more visible. In the source code, 
-it is in the range of the chip(-40~100).
 
 Additonal Functionalities:
 1. A flexible interface that allows the user to choose between different measurements. 
