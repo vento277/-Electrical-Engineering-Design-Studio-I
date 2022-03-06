@@ -1,11 +1,9 @@
-The basic code is from the given example 'Period_RC2_math.asm' and 'Freq_RC2_overflow.asm'.
+Basic:
+Measure capacitance using period/frequency.
 
-Functionality includes:
-Measuring period (given)
-Measuring capacitance
-# Measuring impedance
-# Measuring resistance	*Used 0.1uF capacitor as a set variable. 
-			 My meter is not set to detect 0.1uF, as a result, the impedance caluclation is invalid. 
+Additional:
+Measure impedance
+Measure resistance
 
 
 
