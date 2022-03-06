@@ -1,4 +1,4 @@
-The basic code is from the given example 'Period_RC2_overflow.asm' and 'Freq_RC2_overflow.asm'.
+The basic code is from the given example 'Period_RC2_math.asm' and 'Freq_RC2_overflow.asm'.
 
 Functionality includes:
 Measuring period (given)
