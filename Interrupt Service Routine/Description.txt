@@ -1,23 +1,13 @@
-Functions:
-Cursor Display
+Referece: https://github.com/FSXAC/ELEC291/blob/master/Lab%202/alarm2.asm
+The code consists of basic timer functions with sound. 
 
-Incremental Display
+Basic:
+Create a alarm clock
 
-Special Character
+Additional:
+Date Changes
+Stopwatch
 
-Scroll (starting from middle and becoming regular scroll *continues infinitely)
-	It consists of two functions:
-	One, for scroll from the middle.
-	Two, for overall scroll in the first line. 
-
-Display Description
-1. Required name & id
-2. The display will show the process of a timer being hacked. 
-   Name & ID				-> Cursor
-   Timer 5 4 3 				-> incremental display & cursor
-   ERROR...
-   Bullet breaks the wall (Crunch!) 	-> Special character 
-   Hacked message			-> scroll
 
 
 
