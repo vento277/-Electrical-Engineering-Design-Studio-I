@@ -1,4 +1,4 @@
-Robot **detects** and **picks up** 20 randomly placed Canadian coins within a physical perimeter that is set using a current carrying wire. 
+SAMD20E16 controlled robot **detects** and **picks up** 20 randomly placed Canadian coins within a physical perimeter that is set using a current carrying wire. 
 
 It also displays the number of tirals that robots attempts to pick up the coin in a Binary number via LED, and at the end, it will place 12 coins from a cardboard box to the ground to draw a heart shape.
 
