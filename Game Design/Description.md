@@ -1,4 +1,4 @@
-# Project 1 Capacitive Sensors
+# Project 1 - Capacitive Sensors
 
 Objective: Design, build, program, and test a microcontroller-based capacitive sensors game.
 
