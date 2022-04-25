@@ -23,7 +23,7 @@ Two imbbeded games:
 ### Circuit Block Diagram
 ![hardware](https://user-images.githubusercontent.com/63937643/165002043-d76ab7d5-e102-4b23-b2f1-d831e9154319.png)
 
-### 
+### Breadboard
 ![Elec291_Project1_BreadboardPic](https://user-images.githubusercontent.com/63937643/156922149-a7669ab9-f8a8-4efe-b766-c7c0fde9c6f3.jpeg)
 
 ### Game Setup
