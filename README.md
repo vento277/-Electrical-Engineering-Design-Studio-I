@@ -1,2 +1,2 @@
 # Design Studio 1
-Electronic devies, circuit designs, electromagnetism, signals and systems, and microcomputers. 
+Electrical project studio where one designs a series of electronic applications using AT89LP51RC2 microcontroller and others to build things such as alarm clocks, thermometers and coin picking robots. 
