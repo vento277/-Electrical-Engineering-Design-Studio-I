@@ -1,6 +1,9 @@
 # Project 2 - Coin Picking Robot
 Objective: Design, build, program, and test a robot that detects coins.  operates within a predefined perimeter of a current-carrying wire. 
 
+### Received Grade
+--
+
 ## Project Requirements
 
 1. Microcontroller system other than 8051
@@ -36,6 +39,4 @@ SAMD20E16 controlled robot detects and picks up 20 randomly placed Canadian coin
 ## Block Diagram
 ![image9](https://user-images.githubusercontent.com/63937643/165002865-2a7fc99d-f85f-426a-9f13-a828b616af47.png)
 
-## Received Grade
--
 
