@@ -2,6 +2,9 @@
 
 Objective: Design, build, program, and test a microcontroller-based capacitive sensors game.
 
+### Received Grade
+A+
+
 ## Project Requirements
 
 1. 8051 Microcontroller System
@@ -33,9 +36,7 @@ Two imbbeded games:
 
 ![software](https://user-images.githubusercontent.com/63937643/165002061-1f2f23f8-cdd1-4c0d-815b-7f7422b4ca75.png)
 
-## Received Grade
 
-A+
 
 
 
