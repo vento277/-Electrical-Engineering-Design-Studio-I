@@ -1,6 +1,8 @@
 # Design Studio I
 Electrical project studio where one designs a series of electronic applications using AT89LP51RC2 microcontroller and others for things such as alarm clocks, thermometers and coin picking robots.
 
+### Class top 10.
+
 ## LCD Display
 Displays the name and student number on an LCD display. As an additional feature, is consists of cursors and graphics such as: incremental display, special characters and scroll. 
 
