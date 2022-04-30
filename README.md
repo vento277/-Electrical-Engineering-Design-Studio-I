@@ -16,14 +16,20 @@ Building a capacitance meter with the LM555 chip. As an additional feature, it m
 
 ## LM355
 Building a thermometer using the LM355 chip. As an additional function, an interface is provided to allow the user an option of:
-Set temperature unit
-Set an interval of measurement
+
+Set temperature unit. 
+
+Set an interval of measurement.  
+
 Set an interval of measurement and get the lowest, highest, and average of the measured temperature within that interval
 
 ## Phasor
 Building a phasor meter. As an additional function, an interface is provided to allow the user an option of:
+
 Voltmeter
+
 Frequency Meter
+
 Thermometer
 
 ## DESIGNS
