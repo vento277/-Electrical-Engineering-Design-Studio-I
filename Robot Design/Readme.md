@@ -2,7 +2,7 @@
 Objective: Design, build, program, and test a robot that detects coins.  operates within a predefined perimeter of a current-carrying wire. 
 
 ### Received Grade
---
+A
 
 ## Project Requirements
 
