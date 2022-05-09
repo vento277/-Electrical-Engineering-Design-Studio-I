@@ -3,7 +3,7 @@
 Objective: Design, build, program, and test a microcontroller-based capacitive sensors game.
 
 ### Received Grade
-A
+A+
 
 ## Project Requirements
 
