@@ -28,5 +28,5 @@ Frequency Meter
 
 Thermometer
 
-## DESIGNS
+## Project 1&2 DESIGNS
 Information provided in the project specific folder. 
