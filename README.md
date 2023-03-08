@@ -3,7 +3,7 @@
 
 *Course Descrption: Design projects involving electronic devices and circuits, electromagnetics, signals and systems, and microcomputers.*
 
-## Group Projects
+## Group Projects - Capacitor Game & Coin Picking Robot
 Information provided in the project specific folder. 
 
 ## LCD Display
