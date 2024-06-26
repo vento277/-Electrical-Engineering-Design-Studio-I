@@ -1,5 +1,5 @@
-# Design Studio I
-2nd year electrical engineering project course offered by the University of British Columbia. 
+# Electrical-Engineering-Design-Studio-I
+ELEC 291 is a 2nd year electrical engineering project course offered by the University of British Columbia. 
 
 *Course Descrption: Design projects involving electronic devices and circuits, electromagnetics, signals and systems, and microcomputers.*
 
