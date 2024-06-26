@@ -42,4 +42,5 @@ https://user-images.githubusercontent.com/63937643/227701681-61ab6b20-a60d-48a9-
 
 ![BB2 Setup](https://user-images.githubusercontent.com/63937643/227702293-ce937bc5-81eb-4abf-a2d0-e04e937e471b.jpg)
 
-
+# Postscript
+If you intend to reference this project for your course, please include an appropriate citation. Thank you!
