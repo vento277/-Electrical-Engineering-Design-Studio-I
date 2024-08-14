@@ -22,6 +22,9 @@ SAMD20E16 controlled robot detects and picks up 20 randomly placed Canadian coin
 
 {LED image here}
 
+## My Role
+Developed the steering and arm movement mechanisms for a coin picking robot.
+
 ## Hardware
 
 ### Block Diagram
